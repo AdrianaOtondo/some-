@@ -11,8 +11,8 @@ header{
 	height: 120px;
 }
 
-#left {
-	margin: auto;
+.left {
+	text-align: justify;
 }
 
 body, html {
